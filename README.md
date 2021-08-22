@@ -11,4 +11,4 @@ Targeting high value customers based on customer demographics and attributes.
 
 **3: Data Insights and Presentation:**
 
-Using visualisations to present insights
+Using visualizations to present insights
